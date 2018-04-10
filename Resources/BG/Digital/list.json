@@ -1,9 +1,8 @@
 {
 	"background_terse_list": [{
-			"name": "zip100000001",
-			"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/zip100000001",
-			"file_size": "1.9 MB",
-			"upload_date": "2018/4/10"
-		}
-	]
+		"name": "zip100000001",
+		"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000001.zip",
+		"file_size": "1.9 MB",
+		"upload_date": "2018/4/10"
+	}]
 }
