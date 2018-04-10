@@ -1,31 +1,9 @@
 {
-  "background_img_list": [
-    {
-      "id": "dc100000001",
-      "name": "",
-      "preview_img": "1_preview.png",
-      "hd_img": "1.png",
-      "file_size": "4 MB",
-      "upload_date": "2018/3/15",
-      "free": true
-    },
-    {
-      "id": "dc100000002",
-      "name": "",
-      "preview_img": "2_preview.png",
-      "hd_img": "2.png",
-      "file_size": "2.5 MB",
-      "upload_date": "2018/3/15",
-      "free": true
-    },
-    {
-      "id": "dc100000003",
-      "name": "",
-      "preview_img": "3_preview.png",
-      "hd_img": "3.png",
-      "file_size": "3.3 MB",
-      "upload_date": "2018/3/15",
-      "free": true
-    }
-  ]
+	"background_terse_list": [{
+			"name": "zip100000001",
+			"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/zip100000001",
+			"file_size": "1.9 MB",
+			"upload_date": "2018/4/10"
+		}
+	]
 }
