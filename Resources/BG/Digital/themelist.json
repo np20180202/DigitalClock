@@ -2,7 +2,17 @@
 	"background_terse_list": [{
 		"name": "zip100000001",
 		"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000001.zip",
-		"file_size": "1.9 MB",
+		"file_size": "3.8 MB",
+		"upload_date": "2018/4/10"
+	}, {
+		"name": "zip100000002",
+		"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000002.zip",
+		"file_size": "2.2 MB",
+		"upload_date": "2018/4/10"
+	}, {
+		"name": "zip100000003",
+		"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000003.zip",
+		"file_size": "4.2 MB",
 		"upload_date": "2018/4/10"
 	}],
 	"version": {
