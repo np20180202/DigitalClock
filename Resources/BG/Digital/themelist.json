@@ -1,11 +1,31 @@
 {
-	"background_terse_list": [{
-		"name": "zip100000001",
-		"data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000001.zip",
-		"file_size": "3.8 MB",
-		"upload_date": "2018/4/10"
-	}],
-	"version": {
-		"code": 1
-	}
+  "background_terse_list": [
+    {
+      "name": "zip100000001",
+      "data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000001.zip",
+      "file_size": "553 KB",
+      "upload_date": "2018/4/16"
+    },
+    {
+      "name": "zip100000001",
+      "data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000002.zip",
+      "file_size": "1.4 MB",
+      "upload_date": "2018/4/16"
+    },
+    {
+      "name": "zip100000001",
+      "data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000003.zip",
+      "file_size": "1.5 MB",
+      "upload_date": "2018/4/16"
+    },
+    {
+      "name": "zip100000001",
+      "data": "https://raw.githubusercontent.com/np20180202/DigitalClock/master/Resources/BG/Digital/picture100000004.zip",
+      "file_size": "1 MB",
+      "upload_date": "2018/4/16"
+    }
+  ],
+  "version": {
+    "code": 1
+  }
 }
